@@ -16,7 +16,7 @@ KQIMDMDYKNKEDCYRATLKLESMAVEDHMVGIQHQTTQRCNWYKFQTQASEWWEHGTLAEVPHEKDSKLDMWLQNPWDI
 #     8
 #     PLEASANTLY
 #     -MEA--N-LY
-
+# ------------
 blosum62="""
    A  C  D  E  F  G  H  I  K  L  M  N  P  Q  R  S  T  V  W  Y
 A  4  0 -2 -1 -2  0 -2 -1 -1 -1 -1 -2 -1 -1 -1  1  0  0 -3 -2
